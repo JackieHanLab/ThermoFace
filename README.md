@@ -102,7 +102,7 @@ cd ./rawdata/test_data_result/tempe
 
 <img src="images/thermoface_example.jpg" width="400">
 
-# ** Cite ThermoFace:**
+# Cite ThermoFace:
 Cell Metabolism, Yu et al. “Thermal Face Image Analyses Reveal Quantitative Hallmarks of Aging and Metabolic Diseases”  https://cell.com/cell-metabolism/fulltext/S1550-4131(24)00188-8
 
 https://doi.org/10.1016/j.cmet.2024.05.012
